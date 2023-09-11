@@ -1,0 +1,83 @@
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe.config
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\Guna.UI2.dll
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.AssemblyReference.cache
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.adminvb.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Attendence.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Details.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Emp.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Employee.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Leave.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Login.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.MainForm.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Register.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Salary.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Splash.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Resources.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.viewattendance.resources
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.GenerateResource.cache
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CoreCompileInputs.cache
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CopyComplete
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb.mdf
+C:\Users\jisto\Desktop\backup\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb_log.ldf
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb.mdf
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb_log.ldf
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe.config
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\bin\Debug\Guna.UI2.dll
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.AssemblyReference.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.adminvb.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Attendence.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Details.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Emp.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Employee.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Leave.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Login.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.MainForm.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Register.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Salary.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Splash.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Resources.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.viewattendance.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.GenerateResource.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CoreCompileInputs.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CopyComplete
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.AssemblyReference.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.adminvb.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Details.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Emp.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Employee.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Leave.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Login.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.MainForm.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Register.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Salary.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Splash.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.Resources.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.viewattendance.resources
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.GenerateResource.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CoreCompileInputs.cache
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb.mdf
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeVbDb_log.ldf
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe.config
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.exe
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.pdb
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\EmployeeMgmtVbTuto.xml
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\bin\Debug\Guna.UI2.dll
+C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeeMgmtVbTuto\obj\Debug\EmployeeMgmtVbTutonew.vbproj.CopyComplete

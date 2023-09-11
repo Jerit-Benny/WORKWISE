@@ -1,0 +1,59 @@
+﻿Imports System.Data.SqlClient
+Public Class Register
+    Dim Con As New SqlConnection("Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\jisto\Desktop\New folder\back3\vbproject\EMS\EmployeeMgmtVbTuto1\EmployeVbDb.mdf;Integrated Security=True;Connect Timeout=30")
+    Private Sub Register_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Populate()
+    End Sub
+    Private Sub Populate()
+        Con.Open()
+        Dim sql = "select * from EmployeeTbl"
+        Dim adapter As SqlDataAdapter
+        adapter = New SqlDataAdapter(sql, Con)
+        Dim builder As SqlCommandBuilder
+        builder = New SqlCommandBuilder(adapter)
+        Dim ds As DataSet
+        ds = New DataSet
+        adapter.Fill(ds)
+
+        Con.Close()
+    End Sub
+    Private Sub BunifuThinButton21_Click(sender As Object, e As EventArgs) Handles BunifuThinButton21.Click
+        Con.Open()
+        Dim Query As String
+        Query = "insert into EmployeeTbl values('" & EmpNameTb.Text & "','" & EmpAdd.Text & "', '" & PosCb.SelectedItem.ToString() & "','" & EmpDOB.Value.ToString("MM/dd/yyyy") & "','" & EmpPhoneTb.Text & "', '" & EmpEdCb.SelectedItem.ToString() & "','" & GendCb.SelectedItem.ToString() & "' , '" & EmpUsername.Text & "' , '" & EmpPassword.Text & "')"
+        Dim cmd As SqlCommand
+        cmd = New SqlCommand(Query, Con)
+        cmd.ExecuteNonQuery()
+        MsgBox("Employee Added")
+        Con.Close()
+        Populate()
+    End Sub
+    Dim key = 0
+    Private Sub Clear()
+        EmpNameTb.Clear()
+        PosCb.Text = ""
+        GendCb.Text = ""
+        EmpAdd.Text = ""
+        key = 0
+        EmpEdCb.Text = ""
+        EmpPhoneTb.Text = ""
+        EmpUsername.Text = ""
+        EmpPassword.Text = ""
+
+    End Sub
+
+
+    Private Sub BunifuThinButton24_Click(sender As Object, e As EventArgs) Handles BunifuThinButton24.Click
+        Me.Hide()
+        Dim Main = New adminvb
+        Main.Show()
+    End Sub
+
+    Private Sub EmpDOB_ValueChanged(sender As Object, e As EventArgs) Handles EmpDOB.ValueChanged
+
+    End Sub
+
+    Private Sub EmpEdCb_SelectedIndexChanged(sender As Object, e As EventArgs) Handles EmpEdCb.SelectedIndexChanged
+
+    End Sub
+End Class
